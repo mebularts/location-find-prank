@@ -32,7 +32,7 @@ Bu dosyayı bir web sunucusunda barındırarak veya doğrudan tarayıcıda açar
 
 Aşağıdaki iframe ile projenizin canlı örneğini görebilirsiniz:
 
-<iframe src="https://adofon.linkol.in/location/location.php" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+[DEMO](https://adofon.linkol.in/location/location.php)
 
 ## 📜 **Lisans**
 
@@ -83,7 +83,7 @@ You can host this file on a web server or open it directly in a browser. Once lo
 
 You can view a live example of the project using the following iframe:
 
-<iframe src="https://adofon.linkol.in/location/location.php" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+[DEMO](https://adofon.linkol.in/location/location.php)
 
 ## 📜 **License**
 
