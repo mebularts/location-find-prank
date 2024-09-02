@@ -1,7 +1,7 @@
 # 🚀 **Location Find Prank**
 
-[![Boyut](https://img.shields.io/github/repo-size/mebularts/Username-Creator?logo=php&logoColor=white&label=Boyut)](#)
-[![Görüntülenme](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mebularts/Username-Creator&title=Görüntülenme)](#)
+[![Boyut](https://img.shields.io/github/repo-size/mebularts/location-find-prank?logo=php&logoColor=white&label=Boyut)](#)
+[![Görüntülenme](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mebularts/location-find-prank&title=Görüntülenme)](#)
 <a href="https://t.me/mebularts" target="_blank"><img src="https://img.shields.io/badge/☕️-İletişime%20Geç-ffdd00" title="İletişime Geç"></a>
 
 [![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://t.me/mebularts/)
