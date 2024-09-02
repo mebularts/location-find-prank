@@ -1,5 +1,14 @@
 # 🚀 **Location Find Prank**
 
+[![Boyut](https://img.shields.io/github/repo-size/mebularts/Username-Creator?logo=php&logoColor=white&label=Boyut)](#)
+[![Görüntülenme](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mebularts/Username-Creator&title=Görüntülenme)](#)
+<a href="https://t.me/mebularts" target="_blank"><img src="https://img.shields.io/badge/☕️-İletişime%20Geç-ffdd00" title="İletişime Geç"></a>
+
+[![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://t.me/mebularts/)
+
+[@mebularts](https://t.me/mebularts) tarafından <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17fa94fb-0ae5-45a2-8313-2d3eedaf69db/d8fohut-eb4f893c-d1ad-4111-8e05-29993454b082.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3ZmE5NGZiLTBhZTUtNDVhMi04MzEzLTJkM2VlZGFmNjlkYlwvZDhmb2h1dC1lYjRmODkzYy1kMWFkLTQxMTEtOGUwNS0yOTk5MzQ1NGIwODIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J7M952F5dOS4-H45vJfTWA1yYE0ePYbTwamSfZHEQPY" width="30" height="30" /> ile geliştirilmiştir.
+
+
 **Location Find Prank** projesi, kullanıcıların konum bilgilerini izinsiz olarak almak için tasarlanmış bir yüklenme sayfası uygulamasıdır. Kullanıcıların konum izni vermesi şartıyla yüklenme animasyonu ve modern bir popup tasarımı sunar. 
 Sadece Şaka amaçlı kulllanılmalıdır. 🫠
 
